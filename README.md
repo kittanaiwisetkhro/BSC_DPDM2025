@@ -22,7 +22,7 @@ Kittanai Wisetkhro 663020620-0
 | 📌 รายการ (Topic) | 🔗 ลิงค์ (Material) |
 | :--- | :--- |
 | Lecture 01: Introduction | [Slides](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/blob/main/Chapter%201.%20Introduction.pdf) |
-| Lecture 02: [ชื่อหัวข้อ] | [Slides](./lecture02) |
+| Lecture 02: Getting to Know Your Data | [Slides](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/blob/main/Chapter%201.%20Introduction.pdf) |
 | Lecture 03: [ชื่อหัวข้อ] | [Slides](./lecture03) |
 | Lecture 04: [ชื่อหัวข้อ] | [Slides](./lecture04) |
 
