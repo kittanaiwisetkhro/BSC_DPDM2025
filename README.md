@@ -12,8 +12,8 @@ Kittanai Wisetkhro 663020620-0
 | 📌 รายการ (Assignment) | 🔗 ลิงค์ (Submission/Detail) |
 | :--- | :--- |
 | HW 1 : Chapter 1. Introduction | [View Task](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/blob/main/Chapter%201.%20Introduction.pdf) |
-| HW 2 | [View Task](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/commit/88f408ceb03fe663b8e238fdd193dc539b098836) |
-| HW 3 | [View Task](./hw03) |
+| HW 2 : Chapter 2. Getting to Know Your Data | [View Task](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/commit/88f408ceb03fe663b8e238fdd193dc539b098836) |
+| HW 3 :  | [View Task](./hw03) |
 
 <br>
 
