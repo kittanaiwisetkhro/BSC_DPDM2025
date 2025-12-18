@@ -13,7 +13,7 @@ Kittanai Wisetkhro 663020620-0
 | :--- | :--- |
 | HW 1 : Chapter 1. Introduction | [View Task](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/blob/main/Chapter%201.%20Introduction.pdf) |
 | HW 2 : Chapter 2. Getting to Know Your Data | [View Task](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/blob/main/Chapter%202.%20Getting%20to%20Know%20Your%20Data.pdf) |
-| HW 3 :  | [View Task](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/commit/cd0e9a088f3bca008a3189ffc8279a10d975aa32) |
+| HW 3 : HW3 เติมข้อมูล Columns ที่จำเป็น | [View Task](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/commit/cd0e9a088f3bca008a3189ffc8279a10d975aa32) |
 
 <br>
 
