@@ -9,11 +9,10 @@ Kittanai Wisetkhro 663020620-0
 
 ## 📑 Examination (สอบ)
 
-| 📌 รายการ (Examination) | 🔗 ลิงค์ (Exam/Result) | 📅 วันที่ (Date)|
-| :--- | :--- |
+| 📌 รายการ (Examination) | 🔗 ลิงค์ (Exam/Result) | 📅 วันที่ (Date) |
+| :--- | :--- | :--- |
 | Midterm | [Midterm](https://github.com/kittanaiwisetkhro/BSC_DPDM2025/commit/5933926d0b20814dfb72cc4ed141f701ee5c98ae) | 22 Jan. 2026 |
 | Final  |  [Final]() | (Date) |
-
 
 <br>
 
